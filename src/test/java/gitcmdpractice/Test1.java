@@ -16,6 +16,7 @@ public class Test1 {
 		 reverse=reverse+str.charAt(i);
 		}
 		System.out.println("Reverse string is "+"\t"+reverse);
+		System.out.println("Reverse string is "+""+reverse);
 	}
 
 	}
